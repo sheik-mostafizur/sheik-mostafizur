@@ -1,6 +1,6 @@
 [![MasterHead](https://i.postimg.cc/L89dVXy8/front-end-developer-banner.jpg)](#)
 <h1 align="center">Hi 👋, I'm Sheik Mostafizur Rohman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 <img src="https://i.postimg.cc/Znw9p3Qz/front-end-man.png" alt="Front End Developer" align="right" width="400" />
 
 - 🌱 I’m currently learning JavaScript **React, Node, Express, MongoDB**
