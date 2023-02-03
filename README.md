@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheik-mostafizur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheik-mostafizur" height="30" width="40" /></a>
- <a href="https://edabit.com/user/JCKxmbtse2mLgHoAZ" target="blank"><img align="center" src="https://i.postimg.cc/ZqwX2xfS/edabit.png" alt="sheikmostafizur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sheikmostafizur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sheikmostafizur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sheikmostafizur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikmostafizur" height="30" width="40" /></a>
 </p>
