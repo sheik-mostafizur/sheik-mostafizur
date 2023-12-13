@@ -129,9 +129,14 @@
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 </p>
 
+<br />
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout)](https://github.com/sheik-mostafizur/github-readme-stats)-->
 
-<img align="left" width="47%"
-  src="https://github-readme-stats.vercel.app/api?username=sheik-mostafizur&show_icons=true&theme=transparent" />
-<img align="left" style="margin-left:1rem;" width="47%"
+<img align="left" width="44%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout=compact" />
+
+<p  align="left" width="44%" style="margin-top:-1rem">
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sheik-mostafizur?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+</p>
