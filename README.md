@@ -18,11 +18,11 @@
 
 <h1 align="center">Hi 👋, I'm Sheik Mostafizur</h1>
 <h2 align="center">Looking for an Opportunity in field of React Front-end Developer <a
-    href="https://drive.google.com/file/d/1ghZNNo43N3FSjhUVMN7ekLOenGI1kloz/view">(Resume)</a></h2>
+    href="https://drive.google.com/file/d/1xE-SLafe0y3br8w6X22hci9RrhRpQYuA/view">(Resume)</a></h2>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 <img src="https://i.postimg.cc/NMPK00Kq/front-end-man.png" alt="Front End Developer" align="right" width="400" />
 
-- 🌱 I’m currently learning JavaScript **React, Node, Express, MongoDB**
+- 🌱 I’m currently learning **Front End Development**
 
 - 📫 How to reach me **sheikmostafizur2001@gmail.com**
 
