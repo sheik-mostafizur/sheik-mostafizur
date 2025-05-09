@@ -1,18 +1,14 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/106415501?v=4" alt="Sheik Mostafizur" width="150"></p>
 
 <p id="badges" align="center">
+  <a href="https://wa.me/8801319805503?text=sheik-mostafizurr">
+    <img src="
+    https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white    "
+      alt="WhatsApp Badge" width="200" />
+  </a>
   <a href="https://www.linkedin.com/in/sheik-mostafizur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.youtube.com/@sheikmostafizur?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="Youtube Badge" />
-  </a>
-  <a
-    href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Esheikmostafizur&region=follow_link&screen_name=sheikmostafizur">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter Badge" />
+      alt="LinkedIn Badge" width="160" />
   </a>
 </p>
 
