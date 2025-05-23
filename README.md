@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/edust-org" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/edust-org.png?size=100" alt="Edust Org Logo" width="100" height="100" />
+    <img src="https://github.com/edust-org.png?size=180" alt="Edust Org Logo" width="180" height="180" />
   </a>
 </p>
 
