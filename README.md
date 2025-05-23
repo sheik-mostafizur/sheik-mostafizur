@@ -147,5 +147,5 @@
 <p align="center">
     <img width="400px" alt="Sheik Mostafizur's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout=compact" />  
     <img width="400px" alt="Sheik Mostafizur's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sheik-mostafizur?cardType=github&theme=github-dark&preferLogin=false" />
-    <img width="400px" alt="Edust Official's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/edustorg?cardType=github&theme=github-dark&preferLogin=false" />
+    <img width="400px" alt="Edust Official's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/edustorg?cardType=github&theme=github&preferLogin=false" />
 </p>
