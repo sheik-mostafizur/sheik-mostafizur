@@ -144,11 +144,8 @@
 <br />
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout)](https://github.com/sheik-mostafizur/github-readme-stats)-->
 
-<img align="left" width="44%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout=compact" />
-
-<p  align="left" width="44%" style="margin-top:-1rem">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sheik-mostafizur?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
+<p align="center">
+    <img width="400px" alt="Sheik Mostafizur's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout=compact" />  
+    <img width="400px" alt="Sheik Mostafizur's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sheik-mostafizur?cardType=github&theme=github-dark&preferLogin=false" />
+    <img width="400px" alt="Edust Official's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/edustorg?cardType=github&theme=github-dark&preferLogin=false" />
 </p>
