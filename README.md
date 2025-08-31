@@ -53,6 +53,9 @@
 
 <h3 align="left">Problem Solving:</h3>
 <p align="left">
+  <a href="https://codeforces.com/profile/sheikmostafizur" target="blank"><img align="center"
+      src="./icons/codeforces.png"
+      alt="Beecrowd" height="40" width="40" /></a>
   <a href="https://www.beecrowd.com.br/judge/en/profile/816393" target="blank"><img align="center"
       src="https://repository-images.githubusercontent.com/452657937/1132479a-b4e2-476a-93c6-dc0fcabab6d6"
       alt="Beecrowd" height="40" width="40" /></a>
@@ -64,29 +67,10 @@
       alt="sheikmostafizur" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Best Projects:</h3>
-<p align="left">
-  <a href="https://hotel-haven-37e44.web.app/" target="blank"><img
-      style="background:#fff; padding:5px; border-radius:5px;" align="center"
-      src="https://cdn4.iconfinder.com/data/icons/saas-ui-design-essentials/20/open-in-new-tab-512.png"
-      alt="HotelHaven" height="20" width="20" /></a>
-  <a href="https://pixellens-academy.web.app/" target="blank"><img
-      style="background:#fff; padding:5px; border-radius:5px;" align="center"
-      src="https://cdn4.iconfinder.com/data/icons/saas-ui-design-essentials/20/open-in-new-tab-512.png"
-      alt="PixelLensAcademy" height="20" width="20" /></a>
-  <a href="https://module-auth-7c320.web.app/" target="blank"><img
-      style="background:#fff; padding:5px; border-radius:5px;" align="center"
-      src="https://cdn4.iconfinder.com/data/icons/saas-ui-design-essentials/20/open-in-new-tab-512.png" alt="ToyVerse"
-      height="20" width="20" /></a>
-  <a href="https://recipe-master-526ae.web.app/" target="blank"><img
-      style="background:#fff; padding:5px; border-radius:5px;" align="center"
-      src="https://cdn4.iconfinder.com/data/icons/saas-ui-design-essentials/20/open-in-new-tab-512.png"
-      alt="RecipeMaster" height="20" width="20" /></a>
-  <a href="https://github.com/sheik-mostafizur/revelshine.git" target="blank"><img
-      style="background:#88bcff; padding:5px; border-radius:5px;" align="center"
-      src="https://cdn4.iconfinder.com/data/icons/saas-ui-design-essentials/20/open-in-new-tab-512.png"
-      alt="revelshine - Real Life experience client project" height="20" width="20" /></a>
-</p>
+## [🚀 Full Project Showcase (Click Me <img style="background:#fff; padding:4px; border-radius:4px;" src="./icons/link-opener.png" alt="demo" title="Open on GitHub.dev" height="10" />)](link)
+
+Every developer has a journey — here’s mine in code!  
+This showcase highlights the growth of my projects, from early experiments in JavaScript to advanced full‑stack apps with MERN and beyond.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
