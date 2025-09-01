@@ -25,13 +25,13 @@
 <p align="left">
   <a href="https://linkedin.com/in/sheik-mostafizur" target="blank"><img align="center"
       src="./icons/linkedin.png"
-      alt="Linkedin @sheik-mostafizur" height="30" width="40" /></a>
+      alt="Linkedin @sheik-mostafizur"  width="40" /></a>
   <a href="mailto:sheikmostafizur2001@gmail.com" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
-      alt="Gmail sheikmostafizur2001@gmail.com" height="30" width="auto" /></a>
+      alt="Gmail sheikmostafizur2001@gmail.com"  width="40" /></a>
   <a href="https://wa.me/8801319805503?text=sheik-mostafizur" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904"
-      alt="WhatsApp 8801319805503" height="40" width="40" /></a>
+      alt="WhatsApp 8801319805503" width="40" /></a>
 </p>
 
 <h3 align="left">Problem Solving:</h3>
