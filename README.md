@@ -11,37 +11,20 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sheik Mostafizur</h1>
+<h1 align="center">Hi 👋, I'm Sheik Mostafizur - <a href="https://drive.google.com/file/d/1xE-SLafe0y3br8w6X22hci9RrhRpQYuA/view">Resume <img style="background:#fff; padding:6px; border-radius:6px;" src="./icons/link-opener.png" alt="github" title="GitHub Repo" height="16" /></a></h1>
 
-<h3 align="center">Looking for an Opportunity in field of React Front-end Developer <a
-    href="https://drive.google.com/file/d/1xE-SLafe0y3br8w6X22hci9RrhRpQYuA/view">(Resume)</a></h3>
-
-<p align="center">
-  <a href="https://github.com/edust-org" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/edust-org.png?size=180" alt="Edust Org Logo" width="180" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  I am the sole maintainer of the 
-  <a href="https://github.com/edustorg" target="_blank" rel="noopener noreferrer">Edust Official</a> main account,  
-  including the <a href="https://github.com/edust-org/edust" target="_blank" rel="noopener noreferrer">Edust Org</a> organization — all activities are managed by me.
-</p>
-
-<hr />
-
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">Frontend Developer | React, Next.js & MERN Stack | From Bangladesh</h3>
 
 <img src="https://i.postimg.cc/NMPK00Kq/front-end-man.png" alt="Front End Developer" align="right" width="400" />
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Full‑Stack Development with MERN & modern frontend architectures**
 
 - 📫 How to reach me **sheikmostafizur2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sheik-mostafizur" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="./icons/linkedin.png"
       alt="Linkedin @sheik-mostafizur" height="30" width="40" /></a>
   <a href="mailto:sheikmostafizur2001@gmail.com" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
@@ -67,10 +50,12 @@
       alt="sheikmostafizur" height="30" width="40" /></a>
 </p>
 
-## [🚀 Full Project Showcase (Click Me <img style="background:#fff; padding:4px; border-radius:4px;" src="./icons/link-opener.png" alt="demo" title="Open on GitHub.dev" height="10" />)](link)
+## [🚀 Full Project Showcase (Click Me <img style="background:#fff; padding:4px; border-radius:4px;" src="./icons/link-opener.png" alt="demo" title="Open on GitHub.dev" height="10" />)](https://github.com/sheik-mostafizur/sheik-mostafizur/blob/main/PROJECTS.md)
 
 Every developer has a journey — here’s mine in code!  
 This showcase highlights the growth of my projects, from early experiments in JavaScript to advanced full‑stack apps with MERN and beyond.
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -119,8 +104,6 @@ This showcase highlights the growth of my projects, from early experiments in Ja
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
       height="40" /> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 </p>
@@ -131,5 +114,22 @@ This showcase highlights the growth of my projects, from early experiments in Ja
 <p align="center">
     <img width="400px" alt="Sheik Mostafizur's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheik-mostafizur&layout=compact" />  
     <img width="400px" alt="Sheik Mostafizur's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sheik-mostafizur?cardType=github&theme=github-dark&preferLogin=false" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/edust-org" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/edust-org.png?size=180" alt="Edust Org Logo" width="80" height="80" />
+  </a>
+</p>
+
+<p align="center">
+  I am the sole maintainer of the 
+  <a href="https://github.com/edustorg" target="_blank" rel="noopener noreferrer">Edust Official</a> main account,  
+  including the <a href="https://github.com/edust-org/edust" target="_blank" rel="noopener noreferrer">Edust Org</a> organization — all activities are managed by me.
+</p>
+
+<p align="center">
     <a href="https://github.com/edustorg" target="_blank"><img width="400px" alt="Edust Official's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/edustorg?cardType=github&theme=github&preferLogin=false" /></a>
 </p>
